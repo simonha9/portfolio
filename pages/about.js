@@ -1,19 +1,13 @@
-import Link from 'next/link'
 import {
     Container,
     Heading,
     Box,
-    Button,
-    useColorModeValue
 } from '@chakra-ui/react'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
-import { BioSection, BioYear } from '../components/bio'
-import { ChevronRightIcon } from '@chakra-ui/icons'
-import aboutStyles from '../styles/about.module.css'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import { faHandPointLeft } from '@fortawesome/free-solid-svg-icons'
-import aboutConfig from './config/aboutConfig.json'
+import aboutStyles from '../styles/about.module.css'
 
 const about = () => {
     return (
@@ -31,7 +25,7 @@ const about = () => {
                 <Heading as="h3" variant="section-title">
                     Hey there!
                 </Heading>
-                <Paragraph>I'm a 4th year Computer Science student studying at University of Toronto.  I specialize in the comprehensive stream, bridging the gap between data sciences and standard software engineering; fusing my love of solving problems and creating solutions through mathematical analysis.
+                <Paragraph>I&apos;m a 4th year Computer Science student studying at University of Toronto.  I specialize in the comprehensive stream, bridging the gap between data sciences and standard software engineering; fusing my love of solving problems and creating solutions through mathematical analysis.
                 </Paragraph>
                 <Paragraph>
                     <br />
