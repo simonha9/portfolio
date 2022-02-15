@@ -1,16 +1,11 @@
-import Link from 'next/link'
 import {
     Container,
     Heading,
     Box,
-    Button,
-    useColorModeValue
 } from '@chakra-ui/react'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import { BioSection, BioYear } from '../components/bio'
-import { ChevronRightIcon } from '@chakra-ui/icons'
-import aboutStyles from '../styles/about.module.css'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import { faHandPointLeft } from '@fortawesome/free-solid-svg-icons'
 import aboutConfig from './config/aboutConfig.json'
