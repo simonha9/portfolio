@@ -1,5 +1,6 @@
 {
     "works": {
-        "uImpactify": "An online e-learning platform targeted at social work and marginalized groups for both students and teachers."
+        "uImpactify": "An online e-learning platform targeted at social work and marginalized groups for both students and teachers.",
+        "habitual": "Simple habit tracker using MERN stack made to follow Atomic Habits philosophy."
     }
 }
