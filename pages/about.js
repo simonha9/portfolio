@@ -25,7 +25,7 @@ const about = () => {
                 <Heading as="h3" variant="section-title">
                     Hey there!
                 </Heading>
-                <Paragraph>I&apos;m a 4th year Computer Science student studying at University of Toronto.  I specialize in the comprehensive stream, bridging the gap between data sciences and standard software engineering; fusing my love of solving problems and creating solutions through mathematical analysis.
+                <Paragraph>I&apos;m a Computer Science student studying at University of Toronto.  I specialize in the comprehensive stream, bridging the gap between data sciences and standard software engineering; fusing my love of solving problems and creating solutions through mathematical analysis.
                 </Paragraph>
                 <Paragraph>
                     <br />
