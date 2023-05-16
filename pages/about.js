@@ -50,6 +50,14 @@ const about = () => {
                 </Heading>
                 <br />
                 <Paragraph>
+                    <Heading as='h6' size='xs'>CloudFlare [May 2023 - Aug 2023]</Heading>
+                    Current SWE Intern at CloudFlare, Workers team.
+                    <br />
+                    <u>Skills learned</u>: TBD but most likely [backend] Go;  [frontend] React, JS, [system design] CDN, caching, distributed systems, latency, etc.
+
+                </Paragraph>
+                <br />
+                <Paragraph>
                     <Heading as='h6' size='xs'>BlackBerry Limited [May 2021 - Aug 2022]</Heading>
                     Worked as a full-stack developer in the OneCloud Infrastructure team providing fundamental services used throughout all BlackBerry UEM/UES products.
                     <br />
