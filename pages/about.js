@@ -51,9 +51,9 @@ const about = () => {
                 <br />
                 <Paragraph>
                     <Heading as='h6' size='xs'>CloudFlare [May 2023 - Aug 2023]</Heading>
-                    Current SWE Intern at CloudFlare, Workers team.
+                    SWE Intern at CloudFlare, Workers team.
                     <br />
-                    <u>Skills learned</u>: TBD but most likely [backend] Go;  [frontend] React, JS, [system design] CDN, caching, distributed systems, latency, etc.
+                    <u>Skills learned</u>: [CICD] Docker, Kubernetes, cdk8s; [backend] Go;  [frontend] React, JS; [system design] CDN, caching, distributed systems, latency, etc. ; [observability] Prometheus, Grafana, etc. ;
 
                 </Paragraph>
                 <br />
